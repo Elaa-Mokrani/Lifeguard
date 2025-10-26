@@ -28,4 +28,4 @@ Development of an **intelligent medical bracelet**:
 - Adoption of artificial intelligence for advanced data analysis, enabling preventive alerts and personalized insights.
 
 
-                   <img width="649" height="646" alt="image" src="https://github.com/user-attachments/assets/910e0f8d-4292-4e06-a29b-1057e92efb14" />
+<img width="639" height="337" alt="image" src="https://github.com/user-attachments/assets/d473a870-eed7-4df7-9a52-a11c04a4bcb5" />
