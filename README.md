@@ -26,4 +26,4 @@ Development of an **intelligent medical bracelet**:
 - Integration of advanced sensors to monitor blood glucose, blood pressure, and cardiac activity.
 - Improved connectivity with smartphones and medical devices for fast and secure data sharing.
 - Adoption of artificial intelligence for advanced data analysis, enabling preventive alerts and personalized insights.
-<img width="649" height="646" alt="image" src="https://github.com/user-attachments/assets/910e0f8d-4292-4e06-a29b-1057e92efb14" />
+                   <img width="649" height="646" alt="image" src="https://github.com/user-attachments/assets/910e0f8d-4292-4e06-a29b-1057e92efb14" />
